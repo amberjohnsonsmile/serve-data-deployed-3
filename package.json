@@ -4,7 +4,7 @@
   "description": "Version 3 of server drills",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js",
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "author": "Amber Johnson",
